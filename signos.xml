@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <nome>Áries</nome>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>19/04</dataFim>
+        <descricao>Áries é conhecido por sua energia e entusiasmo.</descricao>
+    </signo>
+    <signo>
+        <nome>Touro</nome>
+        <dataInicio>20/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <descricao>Touro é confiável e trabalhador.</descricao>
+    </signo>
+    <signo>
+        <nome>Gêmeos</nome>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <descricao>Gêmeos é comunicativo e versátil.</descricao>
+    </signo>
+    <signo>
+        <nome>Câncer</nome>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <descricao>Câncer é emocional e protetor.</descricao>
+    </signo>
+    <signo>
+        <nome>Leão</nome>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <descricao>Leão é confiante e carismático.</descricao>
+    </signo>
+    <signo>
+        <nome>Virgem</nome>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <descricao>Virgem é analítico e prático.</descricao>
+    </signo>
+    <signo>
+        <nome>Libra</nome>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <descricao>Libra é equilibrado e sociável.</descricao>
+    </signo>
+    <signo>
+        <nome>Escorpião</nome>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <descricao>Escorpião é intenso e apaixonado.</descricao>
+    </signo>
+    <signo>
+        <nome>Sagitário</nome>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <descricao>Sagitário é otimista e aventureiro.</descricao>
+    </signo>
+    <signo>
+        <nome>Capricórnio</nome>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>19/01</dataFim>
+        <descricao>Capricórnio é disciplinado e ambicioso.</descricao>
+    </signo>
+    <signo>
+        <nome>Aquário</nome>
+        <dataInicio>20/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <descricao>Aquário é inovador e humanitário.</descricao>
+    </signo>
+    <signo>
+        <nome>Peixes</nome>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <descricao>Peixes é intuitivo e sensível.</descricao>
+    </signo>
+</signos>
